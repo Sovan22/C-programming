@@ -12,6 +12,8 @@ int main()
         scanf("%d", &oned_array[i]);
     }
   int i,n;
+  // Insert one element into the array 
+  // Insert given number of elements into the array 
     printf("Enter the number of elements to be inserted \n");
     scanf("%d",&n);
     if (n>totalS - uSize)
