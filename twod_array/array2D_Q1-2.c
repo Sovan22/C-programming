@@ -33,4 +33,5 @@ int main(){
             scanf("%d", &twod_array[i][j]);
         }
     }
+    return 0;
 }
