@@ -1,4 +1,4 @@
 # C-programming
 Collaborators:
 Saket Gupta,
-Banjot Singh,
+Banjot Singh
