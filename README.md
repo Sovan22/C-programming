@@ -2,4 +2,3 @@
 Collaborators:
 Saket Gupta,
 Banjot Singh,
-Karthik Chandrashekhar
