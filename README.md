@@ -1,5 +1,5 @@
 # C-programming
-Collaborators
-Saket Gupta
-Banjot Singh
+Collaborators:
+Saket Gupta,
+Banjot Singh,
 Karthik Chandra
